@@ -1,3 +1,5 @@
+![ Screenshot ](Web_Run_Days.jpeg)
+
 # Stock Price Prediction with Linear Regression
 
 This Python script uses the Yahoo Financials API to retrieve historical stock price data for a given stock and then uses linear regression to predict stock prices for a specified number of days into the future.
