@@ -40,7 +40,9 @@ The script will fetch historical data, perform linear regression, and predict st
 
 ### Acknowledgments
 Yahoo Financials API
+
 Python
+
 scikit-learn
 
 
